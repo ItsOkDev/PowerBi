@@ -1,3 +1,4 @@
+<h1>Power Query</h1>
 <p>Power Query is a data connection technology available in Excel and Power BI that enables users to discover, connect, combine, and refine data from various sources. It provides a user-friendly interface for data transformation, allowing users to:</p>
 <ol>
     <li><strong>Import Data</strong>: Connect to a wide range of data sources, including databases, spreadsheets, online services, and more.</li>
